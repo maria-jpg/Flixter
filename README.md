@@ -25,10 +25,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Here is a walkthrough of user implemented stories
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/maria-jpg/Flixter/blob/c1c81fff6ef4995ce73d6128d216d351ce204f55/walkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+While working on this application one of the small issues I encountered was making sure that my Tag was populating in my LogCat. When I would run the debugger, the console would not appear sometimes.
 
 ### Open-source libraries used
 

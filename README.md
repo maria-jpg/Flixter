@@ -22,9 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/maria-jpg/Flixter/blob/master/walkthrough2.gif" width=250><br>
 
 ### Notes
 One of the challenges I encountered during the creation of this applicaiton was knowing where to put certain code in certain files. When I would look at the documentation, I was not sure if the code used would be pasted had to be in a certain file. Though, upon following through the video, I was able to determine where some of the YouTube API code should go in terms of having the movie trailer populate.
